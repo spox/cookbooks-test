@@ -1,3 +1,13 @@
 {
-  "name": "staging"
+  "name": "staging",
+  "description": "",
+  "cookbook_versions": {
+    "mysql": "= 1.2.11"
+  },
+  "json_class": "Chef::Environment",
+  "chef_type": "environment",
+  "default_attributes": {
+  },
+  "override_attributes": {
   }
+}
