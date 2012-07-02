@@ -2,7 +2,7 @@
   "name": "staging",
   "description": "",
   "cookbook_versions": {
-    "mysql": "= 1.2.12"
+    "mysql": "= 1.2.13"
   },
   "json_class": "Chef::Environment",
   "chef_type": "environment",
