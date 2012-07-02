@@ -1,0 +1,14 @@
+{
+  "name": "production",
+  "description": "",
+  "cookbook_versions": {
+    "mysql": "= 1.2.7",
+    "iptables": "= 0.10.8"
+  },
+  "json_class": "Chef::Environment",
+  "chef_type": "environment",
+  "default_attributes": {
+  },
+  "override_attributes": {
+  }
+}
