@@ -3,7 +3,7 @@
   "description": "",
   "cookbook_versions": {
     "mysql": "= 1.2.15",
-    "iptables": "= 0.10.17"
+    "iptables": "= 0.10.18"
   },
   "json_class": "Chef::Environment",
   "chef_type": "environment",
