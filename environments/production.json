@@ -2,7 +2,7 @@
   "name": "production",
   "description": "",
   "cookbook_versions": {
-    "mysql": "= 1.2.14",
+    "mysql": "= 1.2.15",
     "iptables": "= 0.10.18"
   },
   "json_class": "Chef::Environment",
