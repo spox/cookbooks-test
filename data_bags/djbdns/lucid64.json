@@ -1,0 +1,13 @@
+{
+  "id": "config_lucid64_onsrv_net",
+  "public_dnscache_dir": "/etc/djbdns/my-public-cache-for-testing",
+  "tinydns_internal_resolved_domain": "example.com",
+  "tinydns_ipaddress": "127.0.0.1",
+  "axfrdns_ipaddress": "127.0.0.1",
+  "axfrdns_uid": "9999",
+  "service_type": "runit",
+  "dnslog_uid": "9998",
+  "tinydns_uid": "9997",
+  "dnscache_uid": "9996",
+  "axfrdns_dir": "/tmp/fubar/FUBAR"
+}
