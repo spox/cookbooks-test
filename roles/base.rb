@@ -1,7 +1,7 @@
 name 'base'
 
 run_list(%w(
-  users::sysadmins
+   users::sysadmins
   sudo
   chef-client::config
   chef-client::cron
